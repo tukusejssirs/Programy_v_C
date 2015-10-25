@@ -72,7 +72,7 @@ int main()
 {
 	ATOM *sz;
 	ini(&sz);
-		char s[] = "Life is too short to remove USB safety.";
+		char s[] = "Life is too short to remove USB safely.";
 	int i;
 	char c;
 	for(i = 0; i < strlen(s); i++)
