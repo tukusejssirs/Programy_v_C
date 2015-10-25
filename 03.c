@@ -45,7 +45,7 @@ void hodnota(ATOM *q, int *x){
 
 int main(){
 	ATOM *r;
-	char s[] = "Life is too short to remove USB safety.";
+	char s[] = "Life is too short to remove USB safely.";
 	char c;
 	int i;
 	ini(&r);
