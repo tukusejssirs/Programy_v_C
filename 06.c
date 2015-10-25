@@ -112,7 +112,7 @@ void hodnota(ZOZNAM k, int *x){
 int main()
 {
 	ZOZNAM li;
-	char s[] = "Life is too short to remove USB safety.";
+	char s[] = "Life is too short to remove USB safely.";
 	int i;
 	ini(&li);
 	for(i = 0; i<strlen(s); i++)
